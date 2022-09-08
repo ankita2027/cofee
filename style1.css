@@ -1,0 +1,124 @@
+.main-div{
+    background-color: rgba(210, 105, 30, 0.281);
+    
+}
+.main-div img{
+    height: 1300px;
+}
+.div-h3{
+    font-size: 35px;
+    font-weight: 800;
+    color:orange;
+}
+.div-h1{
+    font-size: 80px;
+    color: whitesmoke;
+    font-weight: 80;
+}
+.nav-div{
+    background-color: rgba(210, 105, 30, 0.555);
+    width: 100vw;
+    height: 70px;
+    margin-top: 240px;
+}
+.nav-div a{
+    text-decoration: none;
+    color: whitesmoke;
+    font-size: 18px;
+    font-weight: 500;
+    margin-left: 2rem;
+}
+.div-left img{
+    width: 60vw;
+    height: 90vh;
+    border-radius: 0.5rem;
+    margin-right: 7rem;
+}
+.hero-section{
+    margin-top: 380px;
+} 
+.div-right{
+    background-color: white;
+    width: 30vw;
+    height: 55vh;
+    margin-left: 10rem;
+    margin-top: 4rem;
+}
+
+.div-right h6{
+    font-weight: bold;
+}
+.div-right h1{
+    font-weight: 50;
+    color: grey;
+    font-size: 50px;
+}
+.div-right p{
+    color: grey;
+}
+.hero-section2{
+    background-color: rgba(255, 166, 0, 0.582);
+    padding-top: 4rem;
+    padding-bottom: 4rem;
+    height: 480px;
+    margin-top: 1050px; 
+}
+.div-right1{
+    background-color: white;
+    width: 60vw;
+    height: 53vh;
+    border: 0.5rem;
+    border-style: ridge;
+    border-radius: 0.5rem;
+    border-color: rgba(255, 166, 0, 0.582);
+    padding-left: 2rem;
+    padding-right: 2rem;
+    
+}
+.div-right1 h6{
+    font-weight: bold;
+}
+.div-right1 h1{
+    font-weight: 50;
+    color: grey;
+    font-size: 50px;
+}
+.div-right1 p{
+    color: grey;
+}
+.footer{
+    background-color:rgba(210, 105, 30, 0.555);
+    height: 6rem;
+    margin-top: 1200px; 
+}
+.footer-class{
+    color: whitesmoke;
+    /* padding-top: 1rem;
+    padding-bottom: 1rem; */
+    } 
+
+.hero-section11 img{
+    width: 80vw;
+    height: 60vh;
+    
+}
+.div-top{
+    margin-top: 400px;
+}
+.div-right11{
+    background-color: whitesmoke;
+    width: 60vw;
+    height: 50vh;
+    padding: 2rem;
+    margin-top: 300px;
+    margin-left: 140px;
+}
+
+.div-right11 h6{
+    font-weight: bold;
+}
+.div-right11 h1{
+    font-weight: 20;
+    font-size: 50px;
+    color: gray;
+}
